@@ -1,0 +1,54 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "GeomLibrary/1.0.0": {
+        "dependencies": {
+          "NUnit": "4.2.2",
+          "NUnit3TestAdapter": "4.6.0"
+        },
+        "runtime": {
+          "GeomLibrary.dll": {}
+        }
+      },
+      "NUnit/4.2.2": {
+        "runtime": {
+          "lib/net6.0/nunit.framework.dll": {
+            "assemblyVersion": "4.2.2.0",
+            "fileVersion": "4.2.2.0"
+          },
+          "lib/net6.0/nunit.framework.legacy.dll": {
+            "assemblyVersion": "4.2.2.0",
+            "fileVersion": "4.2.2.0"
+          }
+        }
+      },
+      "NUnit3TestAdapter/4.6.0": {}
+    }
+  },
+  "libraries": {
+    "GeomLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NUnit/4.2.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-mon0OPko28yZ/foVXrhiUvq1LReaGsBdziumyyYGxV/pOE4q92fuYeN+AF+gEU5pCjzykcdBt5l7xobTaiBjsg==",
+      "path": "nunit/4.2.2",
+      "hashPath": "nunit.4.2.2.nupkg.sha512"
+    },
+    "NUnit3TestAdapter/4.6.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-R7e1+a4vuV/YS+ItfL7f//rG+JBvVeVLX4mHzFEZo4W1qEKl8Zz27AqvQSAqo+BtIzUCo4aAJMYa56VXS4hudw==",
+      "path": "nunit3testadapter/4.6.0",
+      "hashPath": "nunit3testadapter.4.6.0.nupkg.sha512"
+    }
+  }
+}

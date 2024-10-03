@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "QhT1+xwjQKI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sasch\\source\\repos\\GeomMain\\GeomMain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sasch\\.nuget\\packages\\nunit\\4.2.2\\nunit.4.2.2.nupkg.sha512",
+    "C:\\Users\\Sasch\\.nuget\\packages\\nunit3testadapter\\4.6.0\\nunit3testadapter.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
